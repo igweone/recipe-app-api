@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Emeka Osigwe
+LABEL maintainer="Emeka Osigwe"
 
 ENV PYTHONUNBUFFERED 1
 
